@@ -5,9 +5,7 @@ date: "July 2021"
 output:
   html_document: 
     keep_md: yes
-  pdf_document: default
-editor_options:
-  chunk_output_type: console
+
 ---
 
 ## Introduction
